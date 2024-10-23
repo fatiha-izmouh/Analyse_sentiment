@@ -30,5 +30,10 @@ Le projet est structuré pour inclure :
 - Prétraitement des commentaires
 - Entraînement et évaluation du modèle
 - Déploiement et utilisation pratique
+##  
 
+![Image 1](page1.png)
+![Image 2](page2.png)
+![Image 3](page3.png)
+![Image 4](page4.png)
 
